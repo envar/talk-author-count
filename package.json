@@ -1,0 +1,9 @@
+{
+  "name": "talk-author-count",
+  "version": "1.0.0",
+  "description": "A Talk plugin that adds a resolver to get the number of commenters on an asset.",
+  "main": "index.js",
+  "repository": "https://github.com/envar/talk-author-count",
+  "author": "Michal Nicpon <nicpon.michal@gmail.com>",
+  "license": "MIT"
+}
